@@ -4,8 +4,8 @@ import 'swiper/css/navigation';
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import ban1 from "../assets/banner/banner-1.jpg"
-import ban2 from "../assets/banner/banner-2.png"
-import ban3 from "../assets/banner/banner-3.webp"
+import ban2 from "../assets/banner/banner-2.jpg"
+import ban3 from "../assets/banner/banner-3.jpg"
 
 
 const Banner = () => {
